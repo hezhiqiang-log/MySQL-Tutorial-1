@@ -1,0 +1,12 @@
+{
+    "plugins": ["prism", "-highlight", "anchors","expand-active-chapter"],
+    "pluginsConfig":
+    {
+        "prism":
+        {
+            "css": [
+                "prismjs/themes/prism-atom-dark.css"
+            ]
+        }
+    }
+}

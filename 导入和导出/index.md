@@ -1,0 +1,2 @@
+- [将CSV文件导入MySQL表](http://www.yiibai.com/mysql/import-csv-file-mysql-table.html) - 演示如何使用`LOAD DATA INFILE`语句将CSV文件导入MySQL表。
+- [MySQL导出表到CSV](http://www.yiibai.com/mysql/export-table-to-csv.html) - 学习如何将MySQL表导出为CSV文件格式的各种技术。
