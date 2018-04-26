@@ -1,3 +1,5 @@
+备注：非本人原创，本人在学习 MySQL 过程中发现这个网站 ![http://www.yiibai.com](http://www.yiibai.com) 的 MySQL 教程挺好的，只是排版混乱，无法快速查阅，于是重新排版，方便查看。
+
 # 教程目录
 
 ## 开发人员的 MySQL 教程
